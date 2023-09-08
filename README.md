@@ -8,7 +8,7 @@ This repository contains a Hadoop MapReduce implementation of a Decision Tree Cl
 - [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Usage](#usage)
-  - [Usage](#COMMANDS)
+  - [Commands](#COMMANDS)
   - [Cloning the Repository](#cloning-the-repository)
 
 ## Introduction
